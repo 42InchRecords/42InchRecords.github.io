@@ -1,3 +1,15 @@
+
+## ABOUT
+
+## OUR ARTISTS
+Every artist has his own page
+
+## WHERE CAN YOU FIND OUR MUSIC
+
+## WANT TO WORK WITH US?
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/42InchRecords/42InchRecords.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
